@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vlad! <br/><a href="https://github.com/joshmadakor1">QA Automation Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Vlad! <br/><a href="https://github.com/joshmadakor1">QA Automation Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Penetration Tester</a></h1>
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
