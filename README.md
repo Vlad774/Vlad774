@@ -21,7 +21,8 @@
 <h2>QA Automation projects and others:</h2>
 
 - <b>Automation Test, Selenium and Python </b>
-  - [Automation Test with Python](https://github.com/Vlad774/Dotdashcom_test_PYTHON)
+  - [Automation Test with Python](https://github.com/Vlad774/Dotdashcom_test_PYTHON) | [Video link](https://vimeo.com/820757696)
+  - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
