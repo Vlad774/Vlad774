@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - <b>Active Directory setup Home Lab and Users generating script</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/joshmadakor1/Algorithms-Practice)
 
