@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Microsoft Azure Sintel Lab Attack Map](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>QA Automation projects and others:</h2>
 
