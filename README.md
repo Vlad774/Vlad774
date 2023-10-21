@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Active Directory setup Home Lab and users generating script</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/joshmadakor1/Algorithms-Practice)
