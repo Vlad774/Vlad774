@@ -6,6 +6,8 @@
   - [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab) | [Video link](https://www.youtube.com/watch?v=wGJSgqEzM0w&ab_channel=VladCybersecurity)
 - <b>Microsoft Azure Sentinel</b>
   - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)
+- <b>Vulnerability Management Lab</b>
+  - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)
 
 <h2>QA Automation projects and others:</h2>
 
