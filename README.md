@@ -7,7 +7,7 @@
 - <b>Microsoft Azure Sentinel</b>
   - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)
 - <b>Vulnerability Management Lab</b>
-  - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)
+  - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)
 
 <h2>QA Automation projects and others:</h2>
 
