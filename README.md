@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Penetration testing projects:</h2>
 
-- <b>Port Scanner Development</b>
+- <b>(Python)Port Scanner Development</b>
   - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
   
 
