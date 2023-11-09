@@ -9,12 +9,17 @@
 - <b>Vulnerability Management Lab</b>
   - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)
 
+<h2>👨‍💻 Penetration testing projects:</h2>
+
+- <b>Port Scanner Development with Python (Carnage)</b>
+  
+
 <h2>QA Automation projects and others:</h2>
 
 - <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
   - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) | 
   - [Automation Test with Python (Selenium)](https://github.com/Vlad774/Dotdashcom_test_PYTHON) | [Video link](https://vimeo.com/820757696)
-  - [Cypress Tests with Page object Design Pattern (Cypress)] 
+  - [Cypress Tests with Page object Design Pattern (Cypress)] | [Video link 1](https://vimeo.com/user199007084) |
 
 <h2>👨‍💻 Databases projects:</h2>
 
