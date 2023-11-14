@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vlad! <br/><a href="https://github.com/joshmadakor1">QA Automation Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Penetration Tester</a></h1>
 
-<h2>👨‍💻 Cybersecurity projects:</h2>
+<h2>👨‍💻 Cybersecurity and Network projects:</h2>
 
 - <b>Active Directory setup Home Lab and Users generating script</b>
   - [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab) | [Video link](https://www.youtube.com/watch?v=wGJSgqEzM0w&ab_channel=VladCybersecurity)
