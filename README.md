@@ -1,5 +1,16 @@
 <h1>Hi, I'm Vlad! <br/><a href="https://github.com/joshmadakor1">QA Automation Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Penetration Tester</a></h1>
 
+<h2>QA Automation projects and others:</h2>
+
+- <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
+  - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) | 
+  - Automation Test with Python (Selenium) | [Video link](https://vimeo.com/820757696) |
+  - Cypress Tests with Page object Design Pattern (Cypress) | [Video link 1](https://vimeo.com/user199007084) |
+
+
+
+
+
 <h2>👨‍💻 Cybersecurity and Network projects:</h2>
 
 - <b>Active Directory setup Home Lab and Users generating script</b>
@@ -17,12 +28,7 @@
   - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
   
 
-<h2>QA Automation projects and others:</h2>
 
-- <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
-  - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) | 
-  - [Automation Test with Python (Selenium)](https://github.com/Vlad774/Dotdashcom_test_PYTHON) | [Video link](https://vimeo.com/820757696)
-  - [Cypress Tests with Page object Design Pattern (Cypress)] | [Video link 1](https://vimeo.com/user199007084) |
 
 <h2>👨‍💻 Databases projects:</h2>
 
