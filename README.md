@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vlad! <br/><a href="https://github.com/joshmadakor1">QA Automation Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Penetration Tester</a></h1>
 
-<h2>QA Automation projects and others:</h2>
+<h2>👨‍💻 QA Automation projects and others:</h2>
 
 - <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
   - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) | 
