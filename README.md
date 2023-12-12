@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">QA Automation Engineer</a>, <a href="linkedin.com/in/vladvesninskiy">Cybersecurity Enthusiast</a>, <a href="">Penetration Tester</a></h1>
+<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">QA Automation Engineer</a>, <a href="">Cybersecurity Enthusiast</a>, <a href="">Penetration Tester</a></h1>
 
 <h2>👨‍💻 QA Automation projects and others:</h2>
 
