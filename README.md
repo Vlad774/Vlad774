@@ -1,5 +1,11 @@
 <h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">QA Automation Engineer</a>, <a href="">Cybersecurity Enthusiast</a>, <a href="">Penetration Tester</a></h1>
 
+
+<h2>👨‍💻 Software Development projects:</h2>
+
+- <b>(Python)Port Scanner Development</b>
+  - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
+
 <h2>👨‍💻 QA Automation projects and others:</h2>
 
 - <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
@@ -22,10 +28,7 @@
 - <b>Vulnerability Management Lab</b>
   - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)
 
-<h2>👨‍💻 Penetration testing projects:</h2>
 
-- <b>(Python)Port Scanner Development</b>
-  - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
   
 
 
