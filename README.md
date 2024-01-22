@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">QA Automation Engineer</a>, <a href="">Cybersecurity Enthusiast</a>, <a href="">Penetration Tester</a></h1>
+<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">Software Developer in Test</a>, <a href="">Cybersecurity Enthusiast</a>, <a href="">Penetration Tester</a></h1>
 
 
 <h2>👨‍💻 Software Development projects:</h2>
@@ -9,7 +9,8 @@
 <h2>👨‍💻 QA Automation projects and others:</h2>
 
 - <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
-  - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) | 
+  - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) |
+  - [Mobile Automation with Appium](https://github.com/Vlad774/ActiveDirectoryLab) | [Video link](https://vimeo.com/manage/videos/905355607)
   - Automation Test with Python (Selenium) | [Video link](https://vimeo.com/820757696) |
   - Cypress Tests with Page object Design Pattern (Cypress) | [Video link 1](https://vimeo.com/user199007084) |
 
