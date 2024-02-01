@@ -36,7 +36,7 @@
 
 <h2>👨‍💻 Databases projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b></b>
   - [SQL](https://github.com/Vlad774/SQL)
 
 
