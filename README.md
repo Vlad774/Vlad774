@@ -10,7 +10,7 @@
 
 - <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
   - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) |
-  - [Mobile Automation with Appium](https://github.com/Vlad774/Mobile-Automation-with-Appium) | [Video link](https://vimeo.com/manage/videos/905355607)
+  - [Mobile Automation with Appium 2024](https://github.com/Vlad774/Mobile-Automation-with-Appium) | [Video link](https://vimeo.com/manage/videos/905355607)
   - Automation Test with Python (Selenium) | [Video link](https://vimeo.com/820757696) |
   - Cypress Tests with Page object Design Pattern (Cypress) | [Video link 1](https://vimeo.com/user199007084) |
 
