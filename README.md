@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">Software Developer in Test</a>, <a href="">Cybersecurity Enthusiast</a>, <a href="">Penetration Tester</a></h1>
+<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">Software Developer in Test</a> - <a href="">Cybersecurity Enthusiast</a>
 
 
 <h2>👨‍💻 Software Development projects:</h2>
