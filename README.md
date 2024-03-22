@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 QA Automation projects and others:</h2>
 
-- <b>Automation Tests (Selenium, Cypress, JavaScript, NodeJS, JSON, Python) </b>
+- <b>Automation Tests (Selenium, Cypress, JavaScript, Appium, JSON, Python) </b>
   - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) |
   - [Mobile Automation with Appium 2024](https://github.com/Vlad774/Mobile-Automation-with-Appium) | [Video link](https://vimeo.com/manage/videos/905355607)
   - Automation Test with Python 2022(Selenium) | [Video link](https://vimeo.com/820757696) |
