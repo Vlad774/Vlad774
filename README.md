@@ -6,7 +6,7 @@
 - <b>(Python)Port Scanner Development</b>
   - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
 - <b>(Python)Emotion Detection App</b>
-  - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
+  - [Emotion Detection Text](https://github.com/Vlad774/Emotion-Detection/blob/main/README.md)
 
 <h2>👨‍💻 QA Automation projects and others:</h2>
 
