@@ -3,7 +3,7 @@
 <h2>👨‍💻 DevOps projects:</h2>
 
 - <b>IBM DevOps Capstone</b>
-  - [Carnage Port Scanner](https://github.com/Vlad774/devops-capstone-project)
+  - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
 
 
 <h2>👨‍💻 Software Development projects:</h2>
