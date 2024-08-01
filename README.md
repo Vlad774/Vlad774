@@ -1,4 +1,9 @@
-<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">Software Developer in Test</a> - <a href="">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">DevOps</a> - <a href=""> SDET</a> - <a href="">Cybersecurity Enthusiast</a>
+
+<h2>👨‍💻 DevOps projects:</h2>
+
+- <b>IBM DevOps Capstone</b>
+  - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
 
 
 <h2>👨‍💻 Software Development projects:</h2>
