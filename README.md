@@ -4,12 +4,18 @@
 
 - <b>IBM DevOps Capstone</b>
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
-
-
-<h2>👨‍💻 AI/Software Development projects:</h2>
+ 
+<h2>👨‍💻 ML/AI projects:</h2>
 
 - <b>(Python)AI Agent Training()</b>
   - [Deep Q-Learning for Lunar Landing](https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing)
+
+
+
+
+<h2>👨‍💻 Software Development projects:</h2>
+
+
 - <b>(Python)Port Scanner Development</b>
   - [Carnage Port Scanner](https://github.com/Vlad774/Port-Scanner-Carnage/blob/main/README.md)
 - <b>(Python)Emotion Detection App</b>
