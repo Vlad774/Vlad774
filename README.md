@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">DevOps</a> - <a href=""> SDET</a> - <a href="">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">DevOps</a> - <a href=""> Automation Engineer</a> - <a href="">Cybersecurity Enthusiast</a>
 
 <h2>👨‍💻 DevOps projects:</h2>
 
