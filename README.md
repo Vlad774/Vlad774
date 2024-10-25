@@ -11,6 +11,8 @@
   - [Deep Q-Learning for Lunar Landing](https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing)
 - <b>(Python)Convolutional Neural Network (CNN)</b>
   - [CNN Model Pacman Game](https://github.com/Vlad774/CNN-model-Pacman-game)
+- <b>(Python)ChatBot Personal Doctor (LLMs)</b>
+  - [LLMs Model Personal Doctor](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-)
 
 
 
