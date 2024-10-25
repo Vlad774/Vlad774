@@ -7,8 +7,10 @@
  
 <h2>👨‍💻 ML/AI projects:</h2>
 
-- <b>(Python)AI Agent Training()</b>
+- <b>(Python)AI Agent Training</b>
   - [Deep Q-Learning for Lunar Landing](https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing)
+- <b>(Python)Convolutional Neural Network (CNN)</b>
+  - [CNN Model Pacman Game](https://github.com/Vlad774/CNN-model-Pacman-game)
 
 
 
