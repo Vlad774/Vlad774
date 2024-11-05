@@ -4,7 +4,7 @@
 
 
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
-  - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)
+  - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) (VProfile)
  
 <h2>👨‍💻 ML/AI projects:</h2>
 
