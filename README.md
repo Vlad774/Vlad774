@@ -4,6 +4,7 @@
 
 - <b>IBM DevOps Capstone</b>
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
+  - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)
  
 <h2>👨‍💻 ML/AI projects:</h2>
 
