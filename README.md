@@ -6,6 +6,20 @@
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
   - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) (VProfile)
  
+<h2>👨‍💻 Cybersecurity and Network projects:</h2>
+
+- <b>Active Directory setup Home Lab and Users generating script</b>
+  - [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab) | [Video link](https://www.youtube.com/watch?v=wGJSgqEzM0w&ab_channel=VladCybersecurity)
+- <b>Cisco Packet Tracer</b>
+  - [Simple Small Business model](https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model)
+- <b>Microsoft Azure Sentinel</b>
+  - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)
+- <b>Vulnerability Management Lab</b>
+  - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)
+
+
+
+
 <h2>👨‍💻 ML/AI projects:</h2>
 
 - <b>(Python)AI Agent Training</b>
@@ -35,22 +49,7 @@
   - Cypress Tests with Page object Design Pattern 2023(Cypress) | [Video link 1](https://vimeo.com/user199007084) |
 
 
-
-
-
-<h2>👨‍💻 Cybersecurity and Network projects:</h2>
-
-- <b>Active Directory setup Home Lab and Users generating script</b>
-  - [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab) | [Video link](https://www.youtube.com/watch?v=wGJSgqEzM0w&ab_channel=VladCybersecurity)
-- <b>Cisco Packet Tracer</b>
-  - [Simple Small Business model](https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model)
-- <b>Microsoft Azure Sentinel</b>
-  - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)
-- <b>Vulnerability Management Lab</b>
-  - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)
-
-
-  
+ 
 
 
 
