@@ -5,6 +5,7 @@
 
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
   - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) (VProfile)
+  - [Lift and Shift Application Workload](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) (AWS)
  
 <h2>👨‍💻 Cybersecurity and Network projects:</h2>
 
