@@ -5,8 +5,9 @@
 
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
   - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) 
-  - [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) (AWS)
-  - [Refactoring Application with AWS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS)
+  - [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) (AWS Cloud)
+  - [Refactoring Application with AWS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS Cloud)
+  - [CI Pipeline with Jenkins, Sonar, Nexus, Slack ](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS Cloud)
  
 <h2>👨‍💻 Cybersecurity and Network projects:</h2>
 
