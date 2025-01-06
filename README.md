@@ -10,6 +10,16 @@
   - [CI Pipeline with Jenkins, Sonar, Nexus, Slack ](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) (AWS Cloud)
   - [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins ](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) (AWS Cloud)
  
+<h2>👨‍💻 QA Automation projects and others:</h2>
+
+- <b>Automation Tests (Selenium, Cypress, JavaScript, Appium, JSON, Python) </b>
+  - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) |
+  - [Mobile Automation with Appium 2024](https://github.com/Vlad774/Mobile-Automation-with-Appium) | [Video link](https://vimeo.com/manage/videos/905355607)
+  - Automation Test with Python 2022(Selenium) | [Video link](https://vimeo.com/820757696) |
+  - Cypress Tests with Page object Design Pattern 2023(Cypress) | [Video link 1](https://vimeo.com/user199007084) |
+
+
+
 <h2>👨‍💻 Cybersecurity and Network projects:</h2>
 
 - <b>Active Directory setup Home Lab and Users generating script</b>
@@ -44,13 +54,7 @@
 - <b>(Python)Emotion Detection App</b>
   - [Emotion Detection Text](https://github.com/Vlad774/Emotion-Detection/blob/main/README.md)
 
-<h2>👨‍💻 QA Automation projects and others:</h2>
 
-- <b>Automation Tests (Selenium, Cypress, JavaScript, Appium, JSON, Python) </b>
-  - My Vimeo channel with Automated tests listed below | [Video link 1](https://vimeo.com/user199007084) |
-  - [Mobile Automation with Appium 2024](https://github.com/Vlad774/Mobile-Automation-with-Appium) | [Video link](https://vimeo.com/manage/videos/905355607)
-  - Automation Test with Python 2022(Selenium) | [Video link](https://vimeo.com/820757696) |
-  - Cypress Tests with Page object Design Pattern 2023(Cypress) | [Video link 1](https://vimeo.com/user199007084) |
 
 
  
