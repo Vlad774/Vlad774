@@ -9,6 +9,7 @@
   - [Refactoring Application with AWS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS Cloud)
   - [CI Pipeline with Jenkins, Sonar, Nexus, Slack ](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) (AWS Cloud)
   - [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins ](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) (AWS Cloud)
+  - [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) (AWS/Ansible)
  
 <h2>👨‍💻 QA Automation projects:</h2>
 
