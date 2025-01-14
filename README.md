@@ -10,7 +10,7 @@
   - [CI Pipeline with Jenkins, Sonar, Nexus, Slack ](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) (AWS Cloud)
   - [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins ](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) (AWS Cloud)
   - [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) (AWS/Ansible)
-  - [CICD on AWS](https://github.com/Vlad774/Ansible_and_AWS) (AWS Cloud)
+  - [CICD on AWS](https://github.com/Vlad774/CICD_on_AWS) (AWS Cloud)
  
 <h2>👨‍💻 QA Automation projects:</h2>
 
