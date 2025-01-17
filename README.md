@@ -6,7 +6,7 @@
   - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
   - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) 
   - [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) (AWS Cloud)
-  - [Refactoring Application with AWS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS Cloud)
+  - [CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS Cloud)
   - [CI Pipeline with Jenkins, Sonar, Nexus, Slack ](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) (AWS Cloud)
   - [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins ](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) (AWS Cloud)
   - [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) (AWS/Ansible)
