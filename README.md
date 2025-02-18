@@ -3,7 +3,7 @@
 <h2>👨‍💻 DevOps projects:</h2>
 
 
-  - [IBM Capstone](https://github.com/Vlad774/devops-capstone-project)
+  - [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub 🚀](https://github.com/Vlad774/website-for-pipeline) (AWS)
   - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC) 
   - [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) (AWS)
   - [CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) (AWS)
@@ -12,7 +12,7 @@
   - [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) (AWS/Ansible)
   - [Automated CI/CD Pipeline on AWS Using Bitbucket and Elastic Beanstalk](https://github.com/Vlad774/CICD_on_AWS) (AWS)
   - [E-commerce Microservices Containerization](https://github.com/Vlad774/E-commerce-Microservices-Containerization) (Docker)
-  - [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub 🚀](https://github.com/Vlad774/website-for-pipeline) (AWS)
+  
  
 <h2>👨‍💻 QA Automation projects:</h2>
 
