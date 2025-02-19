@@ -18,17 +18,13 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          output: dist/github-snake.svg
           output_format: svg
           color_snake: "#FF4500"  # Цвет змейки (ярко-оранжевый)
-          color_dots: ["#FF0000", "#FFA500", "#FFFF00", "#008000", "#0000FF", "#4B0082", "#EE82EE"]  # Радужные коммиты
-          speed: 2  # Скорость анимации
+          color_dots: "#FF0000,#FFA500,#FFFF00,#008000,#0000FF,#4B0082,#EE82EE"  # Радужные коммиты (строкой через запятую)
+          speed: "2"  # Скорость анимации в виде строки
 
-      - name: Apply 3D Effect and Grid Background
-        run: |
-          sed -i 's/<svg/<svg style="filter: drop-shadow(5px 5px 5px #888);" background="url(https://raw.githubusercontent.com/Vlad774/Vlad774/main/assets/grid.png)"/' dist/snake.svg
-
-      - name: Push the generated snake
+      - name: Push the generated snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
