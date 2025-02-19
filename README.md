@@ -38,6 +38,9 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232148B6.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-%23007ACC.svg?style=for-the-badge&logo=maltego&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 ---
 
