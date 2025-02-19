@@ -10,9 +10,6 @@
 🌍 Passionate about **DevOps**, **Cloud Automation**, and **Cybersecurity**.  
 📈 Constantly improving **CI/CD, Infrastructure as Code (IaC), and security automation**.  
 
-🔗 Connect with me:  
-[![LinkedIn]  [![Email]
-
 ---
 
 ### 🚀 **Tech Stack & Tools**
