@@ -36,6 +36,28 @@
 
 ---
 
+
+---
+
+### 🚀 **DevOps & Cloud Projects**
+ [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub](https://github.com/Vlad774/website-for-pipeline) *(AWS)*  
+ [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)  
+ [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) *(AWS)*  
+ [CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) *(AWS)*  
+ [CI Pipeline with Jenkins, Sonar, Nexus, Slack](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) *(AWS)*  
+ [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) *(AWS)*  
+ [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) *(AWS/Ansible)*  
+
+---
+
+### 🔐 **Cybersecurity & Network Projects**
+ [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab)  
+ [Cisco Packet Tracer - Small Business Network](https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model)  
+ [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)  
+ [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)  
+
+---
+
 ### 📊 **GitHub Stats**
 ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad774&show_icons=true&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vlad774&theme=tokyonight)](https://git.io/streak-stats)  
@@ -43,32 +65,7 @@
 
 ---
 
-### 🚀 **DevOps & Cloud Projects**
-- [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub](https://github.com/Vlad774/website-for-pipeline) *(AWS)*  
-- [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)  
-- [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) *(AWS)*  
-- [CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) *(AWS)*  
-- [CI Pipeline with Jenkins, Sonar, Nexus, Slack](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) *(AWS)*  
-- [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) *(AWS)*  
-- [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) *(AWS/Ansible)*  
 
----
-
-### 🔐 **Cybersecurity & Network Projects**
-- [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab)  
-- [Cisco Packet Tracer - Small Business Network](https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model)  
-- [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)  
-- [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)  
-
----
-
-### 🔥 **GitHub Activity Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vlad774&theme=tokyonight)
-
----
-
-### 🐍 **GitHub Contribution Snake**
-![Snake animation](https://github.com/Vlad774/Vlad774/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
