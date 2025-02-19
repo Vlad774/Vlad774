@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vlad! <br/><a href="https://github.com/Vlad774">DevOps</a> - <a href=""> Automation Engineer</a> - <a href="">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 DevOps projects:</h2>
+<h2>👨‍💻 DevOps/Cloud projects:</h2>
 
 
   - [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub 🚀](https://github.com/Vlad774/website-for-pipeline) (AWS)
