@@ -1,4 +1,4 @@
-name: Generate Dynamic Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -14,15 +14,17 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Generate Colorful Snake Animation
-        uses: Platane/snk@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-snake.svg
-          output_format: svg
-          color_snake: "#FF4500"  # Цвет змейки (ярко-оранжевый)
-          color_dots: "#FF0000,#FFA500,#FFFF00,#008000,#0000FF,#4B0082,#EE82EE"  # Радужные коммиты (строкой через запятую)
-          speed: "2"  # Скорость анимации в виде строки
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install -g snk
+
+      - name: Generate Snake Animation
+        run: |
+          npx snk generate --github_user_name Vlad774 --color_snake "#FF4500" --color_dots "#FF0000,#FFA500,#FFFF00,#008000,#0000FF,#4B0082,#EE82EE" --output dist/github-snake.svg
 
       - name: Push the generated snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
