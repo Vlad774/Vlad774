@@ -4,12 +4,18 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# Hi, I'm Vlad! 👋  
-### 🚀 DevOps | Automation Engineer | Cybersecurity Enthusiast  
+```diff
++ AWS + AZURE + GCP                    ✔ ONLINE           + AWS + AZURE + GCP                    ✔ ONLINE
++ KUBERNETES | DOCKER                  ✔ OPTIMAL
+! [FIREWALL] CLOUDFLARE                ⚠ SCANNING
+# [ENCRYPTION] TERRAFORM               ▰▰▰▰▰▰▰ 89%
 
-🌍 Passionate about **DevOps**, **Cloud Automation**, and **Cybersecurity**.  
-📈 Constantly improving **CI/CD, Infrastructure as Code (IaC), and security automation**.  
+! ═══════════════════════════════════════════
++ DETECTED TECH SIGNATURES:
+# PYTHON3.11 ▰▰▰▰▰▰▰▰▰▰ JENKINS ▰▰▰▰▰▰ DOCKER
+! ANSIBLE ▰▰▰▰▰▰▰▰ PROMETHEUS ▰▰▰▰▰▰▰▰▰ GRAFANA
 
+```
 ---
 
 ### 🚀 **Tech Stack & Tools**
