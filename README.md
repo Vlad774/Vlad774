@@ -35,6 +35,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-%23000000.svg?style=for-the-badge&logo=appium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232148B6.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-%23007ACC.svg?style=for-the-badge&logo=maltego&logoColor=white)
 
@@ -48,6 +49,14 @@
 - [CI Pipeline with Jenkins, Sonar, Nexus, Slack](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) *(AWS)*  
 - [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) *(AWS)*  
 - [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) *(AWS/Ansible)*  
+
+---
+
+### 🔐 **Cybersecurity & Network Projects**
+- [Active Directory Home Lab](https://github.com/Vlad774/ActiveDirectoryLab)  
+- [Cisco Packet Tracer - Small Business Network](https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model)  
+- [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)  
+- [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)  
 
 ---
 
