@@ -12,11 +12,16 @@
 
 LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ```
-# Hi, I'm Vlad! 👋  
-### 🚀 DevOps | Automation Engineer | Cybersecurity Enthusiast  
+```diff
+👾 SYSTEM BOOTING... ██████ 100% LOADED
 
-🌍 Passionate about **DevOps**, **Cloud Automation**, and **Cybersecurity**.  
-📈 Constantly improving **CI/CD, Infrastructure as Code (IaC), and security automation**.  
+💀 Hi, I’m VL4D! ────█▓▒░ 
+⚡ DevOps Operator | Automation Architect | CyberSec Phantom 
+🌐 Optimizing CI/CD | IaC | CloudOps | Zero-Trust Security 
+🚀 Deploying Scalable Infra | Hacking the Future  
+
+⚠ SYSTEM STATUS: ONLINE | THREAT DETECTION: MINIMAL | ENCRYPTION: ACTIVE 🔒
+```
 ```diff
 + INITIALIZING CORE SYSTEMS...
 ! LOADING SECURITY PROTOCOLS...
