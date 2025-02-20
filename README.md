@@ -12,12 +12,6 @@
 
 LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
 # Hi, I'm Vlad! 👋  
 ### 🚀 DevOps | Automation Engineer | Cybersecurity Enthusiast  
 
@@ -74,7 +68,12 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 - [Microsoft Azure Sentinel Lab Attack Map](https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/README.md)  
 - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)  
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
 ### 📊 **GitHub Stats**
 ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad774&show_icons=true&theme=tokyonight)  
