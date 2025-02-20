@@ -68,8 +68,7 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 
 ---
 
-### 🚀 **How to reach me?**
-📩 **Email**: [vlad@example.com](mailto:vlad@example.com)  
-🔗 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+
+
 
 can you make thiks page more creative and better looking like cyberpunk style
