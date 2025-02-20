@@ -1,20 +1,28 @@
+```diff
++ INITIALIZING CORE SYSTEMS...
+! LOADING SECURITY PROTOCOLS...
++ ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
++ ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
++ ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
++ ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
++ ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
++ ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
+```
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+# Hi, I'm Vlad! 👋  
+### 🚀 DevOps | Automation Engineer | Cybersecurity Enthusiast  
+
+🌍 Passionate about **DevOps**, **Cloud Automation**, and **Cybersecurity**.  
+📈 Constantly improving **CI/CD, Infrastructure as Code (IaC), and security automation**.  
 ```diff
-+ AWS + AZURE + GCP                    ✔ ONLINE           + AWS + AZURE + GCP                    ✔ ONLINE
-+ KUBERNETES | DOCKER                  ✔ OPTIMAL
-! [FIREWALL] CLOUDFLARE                ⚠ SCANNING
-# [ENCRYPTION] TERRAFORM               ▰▰▰▰▰▰▰ 89%
-
-! ═══════════════════════════════════════════
-+ DETECTED TECH SIGNATURES:
-# PYTHON3.11 ▰▰▰▰▰▰▰▰▰▰ JENKINS ▰▰▰▰▰▰ DOCKER
-! ANSIBLE ▰▰▰▰▰▰▰▰ PROMETHEUS ▰▰▰▰▰▰▰▰▰ GRAFANA
-
++ INITIALIZING CORE SYSTEMS...
+! LOADING SECURITY PROTOCOLS...
 ```
 ---
 
@@ -73,3 +81,5 @@
 ### 🚀 **How to reach me?**
 📩 **Email**: [vlad@example.com](mailto:vlad@example.com)  
 🔗 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+
+can you make thiks page more creative and better looking like cyberpunk style
