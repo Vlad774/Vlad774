@@ -22,10 +22,7 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 
 !⚠ SYSTEM STATUS: ONLINE | THREAT DETECTION: MINIMAL | ENCRYPTION: ACTIVE 🔒
 ```
-```diff
-+ INITIALIZING CORE SYSTEMS...
-! LOADING SECURITY PROTOCOLS...
-```
+
 ---
 
 ### 🚀 **Tech Stack & Tools**
