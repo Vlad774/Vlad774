@@ -27,31 +27,15 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ---
 
 ### 🚀 **Tech Stack & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%23665c91.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-%23000000.svg?style=for-the-badge&logo=appium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%232148B6.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-%23007ACC.svg?style=for-the-badge&logo=maltego&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-
+```diff
++ [CLOUD] AWS | AZURE | GCP    ✔ ONLINE      + [ORCH] KUBERNETES     ✔ OPTIMAL
++ [CONTAINERS] DOCKER          ✔ ACTIVE      + [CICD] JENKINS        ✔ RUNNING
++ [CONFIG] ANSIBLE             ✔ DEPLOYED    # [ENCRYPT] TERRAFORM              ▰▰▰▰▰▰▰ 92%
+! [FIREWALL] CLOUDFLARE        ⚠ SCANNING    # [MONITOR] PROMETHEUS | GRAFANA ▰▰▰▰▰▰▰▰ 89%
+# PYTHON ▰▰▰▰▰▰▰ JS ▰▰▰▰▰ BASH ▰▰▰▰▰ LINUX ▰▰▰▰▰ GIT ▰▰▰▰▰ GITHUB ▰▰▰▰▰
+!⚠ SYSTEM ALERT: ANOMALY DETECTED ███▒▒▒░░░
++⚠ RESPONSE INITIATED... ██████
+```
 ---
 
 ### 🚀 **DevOps & Cloud Projects**
