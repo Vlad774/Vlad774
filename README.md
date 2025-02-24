@@ -64,8 +64,11 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 
 
 
-### 📊 **GitHub Stats** ![Profile Views](https://komarev.com/ghpvc/?username=Vlad774&color=blue&style=flat-square)
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad774&show_icons=true&theme=tokyonight)  
+### 📊 **GitHub Stats** 
+![Profile Views (Last 7 Days)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Vlad774&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Last+7+Days&edge_flat=false)  ![Profile Views (Total)](https://komarev.com/ghpvc/?username=Vlad774&color=blue&style=flat-square) 
+
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad774&show_icons=true&theme=tokyonight)
+
 
 ---
 
