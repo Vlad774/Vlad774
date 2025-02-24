@@ -63,7 +63,8 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 </picture>
 
 
-### 📊 **GitHub Stats**
+
+### 📊 **GitHub Stats** ![Profile Views](https://komarev.com/ghpvc/?username=Vlad774&color=blue&style=flat-square)
 ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad774&show_icons=true&theme=tokyonight)  
 
 ---
@@ -71,4 +72,4 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 
 
 
-can you make thiks page more creative and better looking like cyberpunk style
+
