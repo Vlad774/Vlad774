@@ -40,7 +40,8 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ---
 
 ### 🚀 **DevOps & Cloud Projects**
-- [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub](https://github.com/Vlad774/website-for-pipeline) *(AWS)*  
+- [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub](https://github.com/Vlad774/website-for-pipeline) *(AWS)*
+- [✨ App Kubernetes Deployment on AWS](https://github.com/Vlad774/vprokube) *(AWS)*  
 - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)  
 - [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) *(AWS)*  
 - [CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) *(AWS)*  
