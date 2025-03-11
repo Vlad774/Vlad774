@@ -40,7 +40,7 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ---
 
 ### 🚀 **DevOps & Cloud Projects**
-- [Advanced GitOps for Streamlined Infrastructure and Application Management](https://github.com/Vlad774/vprofile-action)
+- [Advanced GitOps for Streamlined Infrastructure and Application Management](https://github.com/Vlad774/vprofile-action) 🐙🔧|🏗️☁️|🐳📦|⚓🌐|🧰🔍|
 - [✨ CI/CD Pipeline with Jenkins, Ansible, Docker, and GitHub](https://github.com/Vlad774/website-for-pipeline) 🐳 Docker | 🛠 Jenkins | 📜 Ansible | 🐙 GitHub | ☁️ AWS
 - [✨ App Kubernetes Deployment](https://github.com/Vlad774/vprokube) *(AWS)*  
 - [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)  
