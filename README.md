@@ -49,8 +49,10 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 - [CI Pipeline with Jenkins, Sonar, Nexus, Slack](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) *(AWS)*  
 - [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) *(AWS)*  
 - [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) *(AWS/Ansible)*
-- [Nodejs + MongoDB App Deploy To Azure App Service Classic & Yaml Pipeline](https://github.com/Vlad774/msdocs-nodejs-mongodb-azure-sample-app) *(AWS/Azure DevOps)*    
+    
 
+### 🚀 **Azure DevOps**
+- [Nodejs + MongoDB App Deploy To Azure App Service Classic & Yaml Pipeline](https://github.com/Vlad774/msdocs-nodejs-mongodb-azure-sample-app) *(AWS/Azure DevOps)*
 ---
 
 ### 🔐 **Cybersecurity & Network Projects**
