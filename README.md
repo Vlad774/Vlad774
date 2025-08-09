@@ -69,8 +69,7 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 
 
 
-### 📊 **GitHub Stats** 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad774&show_icons=true&theme=tokyonight)
+
 
 
 ---
