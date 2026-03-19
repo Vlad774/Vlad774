@@ -16,7 +16,7 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ```diff
 +👾 SYSTEM BOOTING... ██████ 100% LOADED
 
-💀 Hi, I’m VL4D! ────█▓▒░ 
+ Hi, I’m VL4D! ────█▓▒░ 
 ⚡ DevOps Operator | Automation Architect | CyberSec Phantom 
 🌐 Optimizing CI/CD | IaC | CloudOps | Zero-Trust Security 
 🚀 Deploying Scalable Infra | Hacking the Future  
