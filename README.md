@@ -45,7 +45,7 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 <tr>
 <td width="50%" valign="top">
 
-#### [🏦 Borod-Bank](https://github.com/Synaptix-Innovations/borod-bank)
+#### [🏦 Borod-Bank](https://github.com/Synaptix-Innovations/borod-bank-docs)
 **Enterprise AWS EKS Platform** 
 
 ```yaml
