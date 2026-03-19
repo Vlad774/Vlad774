@@ -39,20 +39,98 @@ LOADING COMPLETED...                        ▰▰▰▰▰▰▰▰▰▰ 100%
 ```
 ---
 
-### 🚀 **DevOps & Cloud Projects**
-- [Advanced GitOps for Streamlined Infrastructure and Application Management](https://github.com/Vlad774/vprofile-action) 🐙🔧|🏗️☁️|🐳📦|⚓🌐|🧰🔍|
-- [✨ App Kubernetes Deployment](https://github.com/Vlad774/vprokube) *(AWS)*  
-- [IoT WebOps Stack with IaC](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC)  
-- [Lift and Shift Application Workload](https://github.com/Vlad774/Lift_and_Shift) *(AWS)*  
-- [CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/README.md) *(AWS)*  
-- [CI Pipeline with Jenkins, Sonar, Nexus, Slack](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack) *(AWS)*  
-- [Automated CI/CD Pipeline for Docker Containers on AWS ECS Using Jenkins](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/README.md) *(AWS)*  
-- [AWS Infrastructure Automation with Ansible](https://github.com/Vlad774/Ansible_and_AWS) *(AWS/Ansible)*
-- [EKS Kubernetes Deployment with Terraform, MySQL, and Spring Boot BankApp](https://github.com/Vlad774/K8_Bank_app) *(AWS/EKS Kubernetes)*
+### 🏗️ **Featured Projects**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [🏦 Borod-Bank](https://github.com/Synaptix-Innovations/borod-bank)
+**Enterprise AWS EKS Platform** 
+
+```yaml
+terraform: 1,300+ lines (modular IaC)
+gitops: ArgoCD App-of-Apps (18 services)
+rollouts: Canary + Prometheus auto-rollback
+pipeline: Jenkins CI/CD (20+ stages)
+devsecops:
+  - Gitleaks     # secret scanning
+  - Trivy        # container vuln
+  - Checkov      # IaC scanning
+  - SonarQube    # code quality
+  - Cosign       # image signing
+  - Kyverno      # policy enforcement
+resilience: Chaos Mesh + Prometheus/Grafana
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### [🧠 Synaptix Brain](https://synaptixtech.net)
+**AI Platform · 11 Modules** · Private
+
+```yaml
+modules: chat, voice, RAG memory, notes,
+  tasks, research, trading bot, journal,
+  telegram, skills hub, dashboard
+ai_router:
+  providers: [Gemini, Groq, Mistral,
+    Cerebras, Cloudflare Workers AI]
+  failover: automatic
+  cost: $0/month
+trading: Polymarket AI bot (200+ markets)
+search: pgvector semantic (1024 dims)
+voice: Gemini WebSocket (real-time)
+infra: Oracle ARM + Cloudflare Zero Trust
+tests: 500+
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [☁️ Oracle Cloud DevOps Starter](https://github.com/Vlad774/oracle-cloud-devops-starter)
+**Terraform + OCI Always Free**
+
+```yaml
+provider: Oracle Cloud (Always Free)
+compute: ARM A1 (4 CPU, 24GB RAM)
+provisioning: Terraform modules
+tooling: VS Code Server (remote dev)
+features:
+  - Auto-provision ARM instances
+  - Security groups + networking
+  - Cloudflare DNS integration
+  - Zero-cost development server
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### [📚 100 Days of DevOps](https://github.com/Vlad774/100-days-of-devops)
+**Learning Journey · Daily tasks**
+
+```yaml
+format: Daily challenges + documentation
+topics:
+  - Terraform & IaC patterns
+  - Kubernetes deep dives
+  - CI/CD pipeline design
+  - Cloud security & networking
+  - Monitoring & observability
+  - Docker
+  - Linux troubleshooting
+  - AI Integrations 
+Many days of DevOps
+```
+
+</td>
+</tr>
+</table>
     
 
-### 🚀 **Azure DevOps**
-- [Nodejs + MongoDB App Deploy To Azure App Service Classic & Yaml Pipeline](https://github.com/Vlad774/msdocs-nodejs-mongodb-azure-sample-app) *(AWS/Azure DevOps)*
+
 ---
 
 ### 🔐 **Cybersecurity & Network Projects**
