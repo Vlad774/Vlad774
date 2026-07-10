@@ -78,7 +78,7 @@ ai_router:
     Cerebras, Cloudflare Workers AI]
   failover: automatic
   cost: $0/month
-trading: Polymarket AI bot (200+ markets)
+agents: research, task & job-search automation
 search: pgvector semantic (1024 dims)
 voice: Gemini WebSocket (real-time)
 infra: Oracle ARM + Cloudflare Zero Trust
@@ -140,9 +140,9 @@ Many days of DevOps
 - [Nessus Vulnerability Management Lab](https://github.com/Vlad774/Nessus-Vulnerability-Management-Lab)  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad774/Vlad774/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vlad774/Vlad774/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vlad774/Vlad774/output/github-snake.svg" />
 </picture>
 
 
@@ -152,7 +152,10 @@ Many days of DevOps
 
 ---
 
+---
 
+### 📬 **Connect**
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vlad--vesninsky-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vlad-vesninsky/)
+[![Website](https://img.shields.io/badge/Web-synaptixtech.net-222?style=flat&logo=cloudflare)](https://synaptixtech.net)
+[![Email](https://img.shields.io/badge/Email-vlad.vesninskiy%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:vlad.vesninskiy@gmail.com)
